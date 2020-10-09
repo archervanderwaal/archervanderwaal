@@ -1,4 +1,4 @@
-name: Update wakatime stats
+name: update wakatime stats
 
 on:
   push:
