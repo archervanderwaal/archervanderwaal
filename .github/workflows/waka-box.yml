@@ -39,7 +39,7 @@ jobs:
       - name: Commit and push
         run: |-
           ./waka
-          git config --global user.email "archer.vanderwaal@gmail.com" && git config --global user.name "archervanderwaal"
+          git config --global user.email "archer.vanderwaal@gmail.com" && git config --global user.name "archervanderwaal" && git config pull.rebase true
           git diff
           git add README.md && git commit -m "update profile's stats.😜" || exit 0
-          git pull && git push
+          git pull && git push 
