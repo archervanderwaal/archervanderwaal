@@ -32,8 +32,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/b6cb7b90177d90c3374509defa206d99" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Java 🕓 0s ██████████████████████████▉░░░░░░░░░░ 72.8%
-XML  🕓 0s ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 27.2%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
