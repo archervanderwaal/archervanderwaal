@@ -4,7 +4,7 @@
 
 #### About me
 
-- 🔭 I'm currently working at [MEITUAN](https://www.meituan.com) as a backend engineer.
+- 🔭 I'm currently working as a backend engineer.
 - ⚽️ I'm loyal Manchester City fan.
 - 🌱 I'm currently learning [Kubernetes](https://kubernetes.io) [Rust](https://www.rust-lang.org/) and [Istio](https://istio.io).
 - 💬 Ask me about anything <archer.vanderwaal@gmail.com>.
